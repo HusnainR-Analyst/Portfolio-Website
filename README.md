@@ -44,7 +44,7 @@ I am a results-oriented data professional with a focus on creating impactful das
 ---
 
 ## Portfolio Website
-Explore my portfolio website to view detailed projects and case studies: https://husnainr-analyst.github.io/Portfolio-Website/(#)
+Explore my portfolio website to view detailed projects and case studies: https://husnainr-analyst.github.io/Portfolio-Website/
 
 ---
 
