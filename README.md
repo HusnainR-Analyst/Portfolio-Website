@@ -44,13 +44,13 @@ I am a results-oriented data professional with a focus on creating impactful das
 ---
 
 ## Portfolio Website
-Explore my portfolio website to view detailed projects and case studies: [Portfolio Website](#)
+Explore my portfolio website to view detailed projects and case studies: https://husnainr-analyst.github.io/Portfolio-Website/(#)
 
 ---
 
 ## Get in Touch
 Feel free to reach out for collaboration, freelance projects, or professional opportunities:
 - **Email**: [husnainrazza.99@gmail.com](mailto:husnainrazza.99@gmail.com)
-- **LinkedIn**: [https://linkedin.com/in/husnain-raza-802205214](#)
+- **LinkedIn**: https://linkedin.com/in/husnain-raza-802205214(#)
 
 Let's connect and turn data into meaningful stories!
