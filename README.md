@@ -19,27 +19,27 @@ I am a results-oriented data professional with a focus on creating impactful das
 ### 1. **Amazon Sales Dashboard**
 - **Description**: Visualized revenue, order trends, and top-selling products for strategic business decisions.
 - **Tools**: Power BI, SQL.
-- [View Project](#)
+- [View Project](https://github.com/HusnainR-Analyst/Amazon_Sales_Dashboard)
 
 ### 2. **Diversity & Inclusion Dashboard**
 - **Description**: Analyzed hiring trends, promotion rates, and turnover across different job levels to support organizational inclusivity.
 - **Tools**: Power BI.
-- [View Project](#)
+- [View Project](https://github.com/HusnainR-Analyst/Diversity-Inclusion-using-power-bi)
 
 ### 3. **Customer Retention Dashboard**
 - **Description**: Explored churn rates, monthly charges, and service usage to identify retention strategies.
 - **Tools**: Power BI.
-- [View Project](#)
+- [View Project](https://github.com/HusnainR-Analyst/Customer-Retention-Dashboard)
 
 ### 4. **Data Professionals Survey Analysis**
 - **Description**: Presented insights into skills, demographics, and industry trends among data professionals.
 - **Tools**: Power BI.
-- [View Project](#)
+- [View Project](https://github.com/HusnainR-Analyst/Data-Professionals-Survey-Dashboard)
 
-### 5. **MySQL Music Store Analysis**
-- **Description**: Performed in-depth SQL analysis of a music store dataset to identify sales trends and customer preferences.
+### 5. **World layoffs Analysis**
+- **Description**: Performed in-depth SQL analysis of a world layoffs dataset to identify trends & insights.
 - **Tools**: MySQL.
-- [View Project](#)
+- [View Project](https://github.com/HusnainR-Analyst/world-layoffs-analysis)
 
 ---
 
@@ -51,6 +51,6 @@ Explore my portfolio website to view detailed projects and case studies: https:/
 ## Get in Touch
 Feel free to reach out for collaboration, freelance projects, or professional opportunities:
 - **Email**: [husnainrazza.99@gmail.com](mailto:husnainrazza.99@gmail.com)
-- **LinkedIn**: https://linkedin.com/in/husnain-raza-802205214(#)
+- **LinkedIn**: https://linkedin.com/in/husnain-raza-802205214
 
 Let's connect and turn data into meaningful stories!
